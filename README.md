@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi, I'm Venkatesh 👋
 
-<!--
-**itsvenkatesh/itsvenkatesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Java | Spring Boot | React | Backend Engineering
 
-Here are some ideas to get you started:
+I'm a developer focused on building reliable backend systems and
+full-stack applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technologies
+
+Java • Spring Boot • Spring Security • React • PostgreSQL • Redis
+• Docker • Git • REST APIs • Kafka • AWS
+
+### 🚀 Current Focus
+
+- Java & Spring Boot
+- REST API design
+- Spring Security & JWT
+- PostgreSQL & Redis
+- Docker
+- Microservices & messaging
+- AWS / cloud-native development
+
+### 🔨 Featured Projects
+
+#### PayFlow
+Payment processing platform built with Spring Boot.
+
+- Payment workflows
+- Idempotency
+- Authentication & authorization
+- PostgreSQL
+- Redis
+- Docker
+- Asynchronous processing
+
+#### ClaimConnect
+Microservices-based insurance claim management system.
+
+- Spring Boot microservices
+- Service discovery
+- API Gateway
+- Spring Security
+- JWT
+- PostgreSQL
+
